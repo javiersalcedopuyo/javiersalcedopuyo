@@ -10,12 +10,12 @@ Being able to create almost anything with what essentially is just an arbitrary 
 
 ## 👨🏼‍💻 I'm currently working on...
 
-- Porting videogames from PC to other platforms as my day job. Focusing on D3D-to-Metal translations and iOS.
-- Continue learning Metal alongside Swift.
+- A small 3D renderer writen on Swift and Metal. The intention is to use it as a workbench to try different render techniques.
+- Rewriting my first game.
 
 ## 👀 And I'm also interested in...
 
-- 🦀 Rust
+- ⚡ Zig
 - 🐧 GNU Linux
 - 🌋 Vulkan
 
@@ -26,6 +26,7 @@ Being able to create almost anything with what essentially is just an arbitrary 
 
 ## 🕰 In the past...
 
+- I worked porting PC games to iOS, Android and macOS
 - My first dev career prospect was actually front-end web development, and I even did an internship.
 - I studied a bachelors degree on Telecommunications, and my first "real job" was writing tools to process and analyse 5G traffic.
 - I also studied a masters degree on video game development, where I found my passion for graphics.
