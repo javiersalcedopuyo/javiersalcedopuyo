@@ -2,7 +2,7 @@
 
 ![Hello there](https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47attg6dzbv48gsjjnbq0wb81tjbl6bzsk9026kfun&rid=giphy.gif&ct=g)
 
-I'm Javi, a Graphics Engineer and Game Dev from Pamplona 🇪🇸, but currently based in London 🇬🇧.
+I'm Javi, a Graphics Engineer and Game Dev from Pamplona 🇪🇸, but currently based in England 🇬🇧.
 
 Being able to create almost anything with what essentially is just an arbitrary arrangement of words is the closer I’ll get to real world magic, and that is why I love programming. ❤️👨🏼‍💻
 
@@ -10,14 +10,14 @@ Being able to create almost anything with what essentially is just an arbitrary 
 
 ## 👨🏼‍💻 I'm currently working on...
 
-- A small 3D renderer writen on Swift and Metal. The intention is to use it as a workbench to try different render techniques.
-- Rewriting my first game.
+- [Dedalo](https://github.com/javiersalcedopuyo/dedalo): A simple, strongly opinionated C++ build system.
+- Metal & Vulkan toy renderers
 
 ## 👀 And I'm also interested in...
 
 - ⚡ Zig
-- 🐧 GNU Linux
-- 🌋 Vulkan
+- 🦅 Swift
+- 🐧 GNU Linux & UNIX in general
 
 ## ✍🏻 I write too! (from time to time)
 
