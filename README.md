@@ -10,7 +10,7 @@ Being able to create almost anything with what essentially is just an arbitrary 
 
 ## 👨🏼‍💻 I'm currently working on...
 
-- [Dedalo](https://github.com/javiersalcedopuyo/dedalo): A simple, strongly opinionated C++ build system.
+- [Dedalo](https://github.com/javiersalcedopuyo/dedalo): A simple, strongly opinionated C++ build system; and [Icaro](https://github.com/javiersalcedopuyo/icaro), it's companion test framework.
 - Metal & Vulkan toy renderers
 
 ## 👀 And I'm also interested in...
@@ -20,9 +20,7 @@ Being able to create almost anything with what essentially is just an arbitrary 
 - 🐧 GNU Linux & UNIX in general
 
 ## ✍🏻 I write too! (from time to time)
-
-- Just about development: [Dev.to](https://dev.to/javiersalcedopuyo)
-- But also about things like food recipes and other topics: [Medium](https://javiersalcedo-p.medium.com/)
+- [Blog](https://javiersalcedopuyo.xyz/blog)
 
 ## 🕰 In the past...
 
